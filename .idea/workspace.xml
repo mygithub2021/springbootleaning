@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36aa88bb-a220-448f-a5a8-e09d79abf97c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\ruanjian\apache-maven-3.6.3\.m2\repository" />
+        <option name="mavenHome" value="F:/ruanjian/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\ruanjian\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hWjGoma3Af1kY5vfmJjRFQ4Hqv" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/第 2-7 课：使用 Spring Boot 上传文件到 FastDFS/spring-boot-fastDFS/pom.xml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.16828479" />
+    <property name="project.structure.side.proportion" value="0.35609102" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FastDFSClient">
+    <configuration name="FastDFSClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neo.fastdfs.FastDFSClient" />
+      <module name="spring-boot-fastDFS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neo.fastdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertiesTest.testOther" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.neo" />
+      <option name="MAIN_CLASS_NAME" value="com.neo.PropertiesTest" />
+      <option name="METHOD_NAME" value="testOther" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertiesTest.testSingle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.neo" />
+      <option name="MAIN_CLASS_NAME" value="com.neo.PropertiesTest" />
+      <option name="METHOD_NAME" value="testSingle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastDFSApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-fastDFS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.FastDFSApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileUploadWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-file-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.FileUploadWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hello" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.hello.HelloApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldController" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="helloworld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.hello.HelloWorldController" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.JdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-Jpa (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.JpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JpaDruidApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-jpa-druid" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.JpaDruidApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JpaThymeleafApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-jpa-thymeleaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.JpaThymeleafApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JspApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-jsp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.JspApplication" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/第 2-2 课 Spring Boot 项目中使用 JSP/spring-boot-jsp" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MAApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-mybatis-annotation" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.MAApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MADApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-mybatis-annotation-druid" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.MADApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MMAApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-multi-mybatis-annotation" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.MMAApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MMADApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-multi-mybatis-annotation-druid" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.MMADApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MMXApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-multi-mybatis-xml" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.MMXApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MMXDApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-multi-mybatis-xml-druid-druid" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.MMXDApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MXApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-mybatis-xml" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.MXApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiJdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-multi-jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.MultiJdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-multi-Jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.MultiJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestfulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-web-restful" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.RestfulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwaggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-swagger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.SwaggerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TLayoutApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-thymeleaf-layout" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.TLayoutApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThymeleafApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-thymeleaf1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.ThymeleafApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThymeleafApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-thymeleaf2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.ThymeleafApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Web1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.Web1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebSocketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-websocket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.WebSocketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XMemcacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-memcache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.XMemcacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.PropertiesTest.testSingle" />
+      <item itemvalue="JUnit.PropertiesTest.testOther" />
+      <item itemvalue="Spring Boot.FastDFSApplication" />
+      <item itemvalue="Spring Boot.FileUploadWebApplication" />
+      <item itemvalue="Spring Boot.HelloApplication" />
+      <item itemvalue="Spring Boot.JdbcApplication" />
+      <item itemvalue="Spring Boot.JpaApplication" />
+      <item itemvalue="Spring Boot.JpaDruidApplication" />
+      <item itemvalue="Spring Boot.JpaThymeleafApplication" />
+      <item itemvalue="Spring Boot.JspApplication" />
+      <item itemvalue="Spring Boot.MAApplication" />
+      <item itemvalue="Spring Boot.MADApplication" />
+      <item itemvalue="Spring Boot.MMAApplication" />
+      <item itemvalue="Spring Boot.MMADApplication" />
+      <item itemvalue="Spring Boot.MMXApplication" />
+      <item itemvalue="Spring Boot.MMXDApplication" />
+      <item itemvalue="Spring Boot.MultiJdbcApplication" />
+      <item itemvalue="Spring Boot.MultiJpaApplication" />
+      <item itemvalue="Spring Boot.MXApplication" />
+      <item itemvalue="Spring Boot.RestfulApplication" />
+      <item itemvalue="Spring Boot.SwaggerApplication" />
+      <item itemvalue="Spring Boot.ThymeleafApplication" />
+      <item itemvalue="Spring Boot.TLayoutApplication" />
+      <item itemvalue="Spring Boot.WebApplication" />
+      <item itemvalue="Spring Boot.WebSocketApplication" />
+      <item itemvalue="Spring Boot.XMemcacheApplication" />
+      <item itemvalue="Spring Boot.Web1Application" />
+      <item itemvalue="Spring Boot.ThymeleafApplication (1)" />
+      <item itemvalue="Spring Boot.HelloWorldController" />
+      <item itemvalue="Application.FastDFSClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FastDFSClient" />
+        <item itemvalue="Spring Boot.ThymeleafApplication (1)" />
+        <item itemvalue="JUnit.PropertiesTest.testOther" />
+        <item itemvalue="JUnit.PropertiesTest.testSingle" />
+        <item itemvalue="Spring Boot.Web1Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36aa88bb-a220-448f-a5a8-e09d79abf97c" name="Default Changelist" comment="" />
+      <created>1600133648106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600133648106</updated>
+      <workItem from="1600133667794" duration="3851000" />
+      <workItem from="1600396746555" duration="43578000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/第 2-7 课：使用 Spring Boot 上传文件到 FastDFS/spring-boot-fastDFS/src/main/java/com/neo/fastdfs/ClientGlobals.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/第 2-7 课：使用 Spring Boot 上传文件到 FastDFS/spring-boot-fastDFS/src/main/java/com/neo/fastdfs/ClientGlobals.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/第 2-7 课：使用 Spring Boot 上传文件到 FastDFS/spring-boot-fastDFS/src/main/java/com/neo/fastdfs/ClientGlobals.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/第 2-7 课：使用 Spring Boot 上传文件到 FastDFS/spring-boot-fastDFS/src/main/java/com/neo/fastdfs/ClientGlobals.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/第 2-7 课：使用 Spring Boot 上传文件到 FastDFS/spring-boot-fastDFS/src/main/java/com/neo/fastdfs/ClientGlobals.java</url>
+          <line>139</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/第 2-7 课：使用 Spring Boot 上传文件到 FastDFS/spring-boot-fastDFS/src/main/java/com/neo/fastdfs/ClientGlobals.java</url>
+          <line>140</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/第 2-7 课：使用 Spring Boot 上传文件到 FastDFS/spring-boot-fastDFS/src/main/java/com/neo/fastdfs/ClientGlobals.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/第 2-7 课：使用 Spring Boot 上传文件到 FastDFS/spring-boot-fastDFS/src/main/java/com/neo/fastdfs/ClientGlobals.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

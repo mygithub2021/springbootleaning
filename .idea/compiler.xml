@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-multi-jdbc" />
+        <module name="spring-boot-mybatis-annotation-druid" />
+        <module name="spring-boot-mybatis-xml" />
+        <module name="spring-boot-Jpa (1)" />
+        <module name="hello" />
+        <module name="spring-boot-multi-mybatis-annotation-druid" />
+        <module name="spring-boot-multi-mybatis-annotation" />
+        <module name="spring-boot-jdbc" />
+        <module name="spring-boot-fastDFS" />
+        <module name="spring-boot-mybatis-annotation" />
+        <module name="spring-boot-multi-Jpa-druid" />
+        <module name="spring-boot-multi-mybatis-xml" />
+        <module name="springbootleaning" />
+        <module name="spring-boot-file-upload" />
+        <module name="spring-boot-thymeleaf-layout" />
+        <module name="spring-boot-jpa-druid" />
+        <module name="spring-boot-swagger" />
+        <module name="spring-boot-thymeleaf1" />
+        <module name="spring-boot-multi-mybatis-xml-druid-druid" />
+        <module name="spring-boot-multi-Jpa" />
+        <module name="spring-boot-jpa-thymeleaf" />
+        <module name="spring-boot-Jpa (2)" />
+        <module name="spring-boot-jsp" />
+        <module name="spring-boot-websocket" />
+        <module name="spring-boot-memcache" />
+        <module name="spring-boot-web" />
+        <module name="spring-boot-web-restful" />
+        <module name="spring-boot-thymeleaf2" />
+        <module name="helloworld" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="hello" options="-parameters" />
+      <module name="helloworld" options="-parameters" />
+      <module name="spring-boot-Jpa (1)" options="-parameters" />
+      <module name="spring-boot-Jpa (2)" options="-parameters" />
+      <module name="spring-boot-fastDFS" options="-parameters" />
+      <module name="spring-boot-file-upload" options="-parameters" />
+      <module name="spring-boot-jdbc" options="-parameters" />
+      <module name="spring-boot-jpa-druid" options="-parameters" />
+      <module name="spring-boot-jpa-thymeleaf" options="-parameters" />
+      <module name="spring-boot-jsp" options="-parameters" />
+      <module name="spring-boot-memcache" options="-parameters" />
+      <module name="spring-boot-multi-Jpa" options="-parameters" />
+      <module name="spring-boot-multi-Jpa-druid" options="-parameters" />
+      <module name="spring-boot-multi-jdbc" options="-parameters" />
+      <module name="spring-boot-multi-mybatis-annotation" options="-parameters" />
+      <module name="spring-boot-multi-mybatis-annotation-druid" options="-parameters" />
+      <module name="spring-boot-multi-mybatis-xml" options="-parameters" />
+      <module name="spring-boot-multi-mybatis-xml-druid-druid" options="-parameters" />
+      <module name="spring-boot-mybatis-annotation" options="-parameters" />
+      <module name="spring-boot-mybatis-annotation-druid" options="-parameters" />
+      <module name="spring-boot-mybatis-xml" options="-parameters" />
+      <module name="spring-boot-swagger" options="-parameters" />
+      <module name="spring-boot-thymeleaf-layout" options="-parameters" />
+      <module name="spring-boot-thymeleaf1" options="-parameters" />
+      <module name="spring-boot-thymeleaf2" options="-parameters" />
+      <module name="spring-boot-web" options="-parameters" />
+      <module name="spring-boot-web-restful" options="-parameters" />
+      <module name="spring-boot-websocket" options="-parameters" />
+    </option>
+  </component>
+</project>

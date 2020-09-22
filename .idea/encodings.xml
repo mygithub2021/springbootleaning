@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/第 1-3 课 Spring Boot 依赖环境和项目结构介绍/hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 1-4 课：写一个 Hello World 来感受 Spring Boot/helloworld" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 2-1 课： Spring Boot 对基础 Web 开发支持/spring-boot-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 2-10 课： 使用 Spring Boot WebSocket 创建聊天室/spring-boot-websocket" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 2-2 课 Spring Boot 项目中使用 JSP/spring-boot-jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 2-3 课 模板引擎 Thymeleaf 基础使用/spring-boot-thymeleaf1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 2-4 课  模板引擎 Thymeleaf 高阶用法/spring-boot-thymeleaf2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 2-5 课 Thymeleaf 页面布局/spring-boot-thymeleaf-layout" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 2-6 课：使用 Spring Boot 和 Thymeleaf 演示上传文件/spring-boot-file-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 2-7 课：使用 Spring Boot 上传文件到 FastDFS/spring-boot-fastDFS" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 2-8 课： Spring Boot 构建一个 RESTful Web 服务/spring-boot-web-restful" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 2-9 课：Spring Boot 中使用 Swagger2 构建 RESTful APIs/spring-boot-swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 3-1 课： Spring Boot 使用 JDBC 操作数据库/spring-boot-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 3-1 课： Spring Boot 使用 JDBC 操作数据库/spring-boot-multi-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 3-2 课： 如何优雅的使用 MyBatis XML 配置版/spring-boot-multi-mybatis-xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 3-2 课： 如何优雅的使用 MyBatis XML 配置版/spring-boot-mybatis-xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 3-3 课： 如何优雅的使用 MyBatis 注解版/spring-boot-multi-mybatis-annotation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 3-3 课： 如何优雅的使用 MyBatis 注解版/spring-boot-mybatis-annotation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 3-4 课： Spring Data JPA 的基本使用/spring-boot-jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 3-5 课： Spring Data JPA 的高级用法/spring-boot-jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 3-6 课：  Spring Data JPA 多数据源的使用/spring-boot-multi-Jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 3-7 课： Spring Boot 集成 Druid 监控数据源/spring-boot-jpa-druid" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 3-7 课： Spring Boot 集成 Druid 监控数据源/spring-boot-multi-Jpa-druid" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 3-7 课： Spring Boot 集成 Druid 监控数据源/spring-boot-multi-mybatis-annotation-druid" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 3-7 课： Spring Boot 集成 Druid 监控数据源/spring-boot-multi-mybatis-xml-druid" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 3-7 课： Spring Boot 集成 Druid 监控数据源/spring-boot-mybatis-annotation-druid" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 3-8 课：Spring Data Jpa 和 Thymeleaf 综合实践/spring-boot-Jpa-thymeleaf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/第 4-1 课：Spring Boot 操作 Memcache/spring-boot-memcache" charset="UTF-8" />
+  </component>
+</project>

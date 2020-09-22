@@ -1,0 +1,10 @@
+com\neo\comm\SelfDefineConfiguration.class
+com\neo\filter\MyFilter2.class
+com\neo\comm\OtherProperties.class
+com\neo\comm\NeoProperties.class
+com\neo\web\WebController.class
+com\neo\Web1Application.class
+com\neo\filter\MyFilter.class
+com\neo\WebApplication.class
+com\neo\model\User.class
+com\neo\filter\WebConfiguration.class
